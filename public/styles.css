@@ -1,0 +1,13 @@
+.my-root {
+    background-color: black;
+    height: 100vh;
+}
+
+.my-header {
+    color:chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 55px;
+}
